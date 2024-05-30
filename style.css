@@ -1,0 +1,109 @@
+img {
+    border-style:inset;
+    border-color:#AC3B61;
+}
+
+
+p {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size:14px;
+}
+
+
+h2 {
+color:#f0efe1;
+      background-color:#123C69;
+        font-family: 'IM Fell DW Pica', serif;
+font-family: 'Raleway', sans-serif;
+}
+
+h3 {
+ font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h4 {
+        font-family: 'IM Fell DW Pica', serif;
+font-family: 'Raleway', sans-serif;
+}
+
+
+a {
+        font-family: 'IM Fell DW Pica', serif;
+font-family: 'Raleway', sans-serif;
+font-size:28px;
+transition: all 500ms;
+}
+
+a:hover {
+    font-size:36px;
+}
+
+
+header {
+    background-color:#EDC7B7;
+}
+
+body {
+    background-color:#EEE2DC;
+}
+
+
+
+h1 {
+    color:#f0efe1;
+font-family: Arial,     Helvetica, sans-serif;
+ padding-bottom: 1em;
+  margin-bottom: -1em;
+  display: inline-block;
+  color: #F58335;
+  background-image: linear-gradient(135deg, #96C0FF 0%, #6C4F9D 16%, #D42635 33%, #F58437 50%, #D42635 67%, #6C4F9D 84%, #96C0FF 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  background-size: 200% 100%;
+  background-position: 0 0;
+  transition: background-position .6s;
+}
+
+
+
+.wrap {
+          display: inline-block;
+          text-align: left;
+          position: relative;
+          -webkit-box-shadow: 5px 5px 5px #111;
+          box-shadow: 5px 5px 5px #111;  
+          }
+.display {
+        position: relative;
+        overflow: hidden;
+          }
+.display img {
+        display: block;
+          }
+.caption {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        padding: 10px;
+        box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        background: rgba(0,0,0,0.4);
+        color: #fff;
+        top: 100%;
+        -webkit-transition: all 0.5s ease-in 0s;
+        -moz-transition: all 0.5s ease-in 0s;
+        -o-transition: all 0.5s ease-in 0s;
+        transition: all 0.5s ease-in 0s;
+            }
+.wrap:hover .caption {
+                          top: 0;
+                              }
+#txt_stl{
+          font-family: Arial, Helvetica, sans-serif;
+          text-align:center;
+          font-size:20px;
+          margin-top:50%;
+               }
