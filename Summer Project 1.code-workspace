@@ -5,6 +5,9 @@
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "summer project 1"
+		"liveServer.settings.multiRootWorkspaceName": "summer project 1",
+		"cSpell.words": [
+			"Longerrrrrr"
+		]
 	}
 }
